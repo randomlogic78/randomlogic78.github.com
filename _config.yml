@@ -19,8 +19,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   beccasbuilds.com is the home of all of the designs, drawings, and updates from the Becca's Builds Woodshop.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.beccasbuilds.com" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  randomlogic78
+#twitter_username:
+#github_username:
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Becca"
 
 # Build settings
 markdown: kramdown
