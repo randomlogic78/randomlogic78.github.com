@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Wiped Out"
+date:   2018-11-11
+image: wipedout.jpg
+---
+
+<p class="intro"><span class="dropcap">A</span>fter long hours working in the shop,
+we often find ourselves collapsed on the assembly table, or some other random
+surface... </p>
+
+So stop back by every once in a while; we are building up the energy to
+generate new content that we think you'll find interesting.
